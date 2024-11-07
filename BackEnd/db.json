@@ -1,0 +1,114 @@
+{
+  "produtos": [
+    {
+      "id": "3",
+      "name": "Fita Adesiva",
+      "preco": 6.99
+    },
+    {
+      "id": "15c2",
+      "name": "Caneta Preta",
+      "preco": 1.99
+    },
+    {
+      "id": "668e",
+      "name": "Cartolina branca",
+      "preco": 2.88
+    },
+    {
+      "id": "7681",
+      "name": "Produto teste",
+      "price": 125.98
+    },
+    {
+      "id": "a92f",
+      "name": "Veio do front",
+      "price": 50
+    },
+    {
+      "id": "93c7",
+      "name": "Bicicleta montain",
+      "price": 450.55
+    },
+    {
+      "id": "3e1a",
+      "name": "mouse",
+      "price": "15.4"
+    },
+    {
+      "id": "2023",
+      "name": "TV Samsumg 14",
+      "price": 1253.99
+    },
+    {
+      "id": "25f0",
+      "name": "Papael chamex",
+      "price": "58.00"
+    },
+    {
+      "id": "92ba",
+      "name": "opa",
+      "price": "1"
+    },
+    {
+      "id": "cfc2",
+      "name": "teste cor",
+      "price": "4"
+    },
+    {
+      "id": "bf79",
+      "name": "testiculo",
+      "price": "8"
+    },
+    {
+      "id": "4c13",
+      "name": "teste 2",
+      "price": "2"
+    },
+    {
+      "id": "23d2",
+      "name": "apontador",
+      "price": "3"
+    },
+    {
+      "id": "8d0b",
+      "name": "durex",
+      "price": "1"
+    },
+    {
+      "id": "1797",
+      "name": "nao tem",
+      "price": "2"
+    },
+    {
+      "id": "aa29",
+      "name": "marca texto",
+      "price": "6"
+    },
+    {
+      "id": "7894",
+      "name": "legal",
+      "price": "12"
+    },
+    {
+      "id": "5c59",
+      "name": "Borracha",
+      "price": "1"
+    },
+    {
+      "id": "e1c7",
+      "name": "lapis",
+      "price": "2"
+    },
+    {
+      "id": "5305",
+      "name": "vai...",
+      "price": "8"
+    },
+    {
+      "id": "4645",
+      "name": "pirulitos",
+      "price": "2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<mat-card class="home mat-elevation-z3">
+    <mat-card-title class="title">  Bem vindo ! </mat-card-title>
+<mat-card-subtitle class="subtitle"> Sistema Exemplo Angular </mat-card-subtitle> 
+</mat-card>
+<input [(ngModel)]="messageContent" matInput placeholder="Digite a mensagem"/>
+<button class="button" mat-raised-button (click)="sendMessage()"
+        color="primary">
+    Enviar para  Java
+</button>
+<p *ngIf="response">{{ response }}</p>
